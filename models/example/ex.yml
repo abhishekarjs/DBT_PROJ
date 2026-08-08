@@ -1,0 +1,5 @@
+models:
+  - name: ex
+    config:
+      materialized: view
+      transient: false
